@@ -1,7 +1,7 @@
-========================================================================================
+
              THE DEZHARA BIOMEDICAL SYSTEM ARCHITECTURE MANIFESTO
        Academic Proposal, Core Specifications, and Global Research Statement
-========================================================================================
+
 
 ----------------------------------------------------------------------------------------
 1. PRINCIPAL DEVELOPER & RESEARCHER PROFILE
